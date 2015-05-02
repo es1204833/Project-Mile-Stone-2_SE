@@ -1,2 +1,0 @@
-controller.UpdateTextBookController
-contact.controller.UpdateTextBookController
